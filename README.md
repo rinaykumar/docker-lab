@@ -1,5 +1,9 @@
 # Lab 10
 Docker
+
+Download docker desktop: https://www.docker.com/get-started
+Create account on dockerhub: hub.docker.com
+
 ```
 $ docker build -t express-demo .
 ```
